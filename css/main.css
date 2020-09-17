@@ -20,5 +20,29 @@ html {
 @viewport { width: device-width; scale: 1; }
 
 body {
+  width: 100%;
+}
 
+section {
+  margin: 1.5rem;
+  text-align: center;
+}
+
+h2 {
+  display: block;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+li img {
+  display: block;
+  width: 100%;
 }
