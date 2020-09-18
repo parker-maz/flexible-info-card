@@ -47,7 +47,7 @@ li {
   flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem;
+  margin-bottom: 1.5rem;
 }
 
 li img {
